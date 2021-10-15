@@ -1,0 +1,7 @@
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\bin\Debug\TestApp2.exe
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\bin\Debug\TestApp2.pdb
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\obj\x86\Debug\TestApp2.csprojResolveAssemblyReference.cache
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\obj\x86\Debug\TestApp2.Properties.Resources.resources
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\obj\x86\Debug\TestApp2.csproj.GenerateResource.Cache
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\obj\x86\Debug\TestApp2.exe
+C:\Users\giovanni.malanga\Documents\Corso Academy - 2016\TestProj\Memory\TestApp\TestApp2\obj\x86\Debug\TestApp2.pdb
